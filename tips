@@ -1,0 +1,2 @@
+~if you enable the  associate_public_ip_address , it will create the public instance
+~if you disable the  associate_public_ip_address , it will create the private instance
